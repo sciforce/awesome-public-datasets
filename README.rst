@@ -270,6 +270,7 @@ Healthcare
 * `Medicare Data Engine of medicare.gov Data <https://data.medicare.gov/>`_
 * `Medicare Data File <http://go.cms.gov/19xxPN4>`_
 * `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_
+* `NIH Clinical Center ChestX-ray8 <https://nihcc.app.box.com/v/ChestXray-NIHCC>`_
 * `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
 * `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
 * `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_
